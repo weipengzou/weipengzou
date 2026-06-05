@@ -11,7 +11,21 @@
 
 ---
 
-### :zap: GitHub Stats
+### GitHub Stats
 
 ![GitHub Stats](./profile/stats.svg)
-![Contribution Heatmap](./profile/github-contribution-grid-snake.svg)
+
+### Profile Details (Contribution Heatmap)
+![Profile Details](./profile-summary-card-output/default/0-profile-details.svg)
+
+### Repos per Language
+![Repos per Language](./profile-summary-card-output/default/1-repos-per-language.svg)
+
+### Most Commit Language
+![Most Commit Language](./profile-summary-card-output/default/2-most-commit-language.svg)
+
+### Stats Summary
+![Stats](./profile-summary-card-output/default/3-stats.svg)
+
+### Productive Time
+![Productive Time](./profile-summary-card-output/default/4-productive-time.svg)
