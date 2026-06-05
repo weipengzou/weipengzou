@@ -13,4 +13,4 @@
 
 ### :zap: GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=weipengzou&show_icons=true&hide_border=true" />
+![Stats](./profile/stats.svg)
