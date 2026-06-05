@@ -13,4 +13,5 @@
 
 ### :zap: GitHub Stats
 
-![Stats](./profile/stats.svg)
+![GitHub Stats](./profile/stats.svg)
+![Contribution Heatmap](./profile/github-contribution-grid-snake.svg)
