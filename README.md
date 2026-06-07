@@ -13,6 +13,10 @@
 
 ### GitHub Stats
 
+### Contribution Graph
+
+![Contribution Graph](https://ghchart.rshah.org/weipengzou)
+
 ![GitHub Stats](./profile/stats.svg)
 
 ### Profile Details (Contribution Heatmap)
@@ -29,3 +33,4 @@
 
 ### Productive Time
 ![Productive Time](./profile-summary-card-output/default/4-productive-time.svg)
+
